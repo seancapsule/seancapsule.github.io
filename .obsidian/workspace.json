@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "30cbc26c0a122273",
+    "type": "split",
+    "children": [
+      {
+        "id": "585deb5294ce0ae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "583552ed148b8fc5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81a17eaf412e320c",
+    "type": "split",
+    "children": [
+      {
+        "id": "04a5886b2fc9feba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e6b257c3860031",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3bc277883f88f74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c19386b7d06efd5f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28493b697b112fca",
+    "type": "split",
+    "children": [
+      {
+        "id": "0932f5883a823e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a974f6d811dc60b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4268ef8d8940e2a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36bcaa3ffa4430cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd384faa0d6e11b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "583552ed148b8fc5",
+  "lastOpenFiles": [
+    "test/assets/images/mm-toc-helper-example.jpg",
+    "docs/assets/images/foo-bar-identity.jpg",
+    "docs/assets/images/mm-toc-helper-example.jpg",
+    "test/assets/images/foo-bar-identity.jpg",
+    "docs/assets/images/mm-custom-sidebar-nav.jpg",
+    "docs/assets/images/solarized-light-code-block.jpg",
+    "test/assets/images/mm-single-header-example.jpg",
+    "assets/js/plugins/jquery.magnific-popup.js",
+    "test/assets/images/image-alignment-1200x4002.jpg",
+    "docs/assets/images/mm-paragraph-indent-example.jpg",
+    "docs/assets/images/aqua-skin-archive-large.png",
+    "docs/assets/images/neon-skin-post-large.png",
+    "docs/_docs/18-history.md"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "1429f5b27720cfeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffae263fc1f357f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2605323b8870be26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-10-프로그래머의 정신.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ef0709958ae69a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-13-test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e63a9745d24046f4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a63536bef7666a98",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "800d58688cb38b7b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d3b89fd2f34cdce2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "267dba9fb83025df",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4d2d67c9325da4b0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "78b3383dd28d7c98",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_posts/2023-04-13-test.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4e279a2e44b8da33",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_posts/2023-04-13-test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d7343c7badacbe63",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_posts/2023-04-13-test.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "8ef0709958ae69a4",
+  "lastOpenFiles": [
+    "_posts/2023-04-10-프로그래머의 정신.md",
+    "_posts/2023-04-13-test.md",
+    "_posts/2023-04-11-존재의 기술.md",
+    "_posts/2023-04-11-볼륨.md"
+  ]
+}
