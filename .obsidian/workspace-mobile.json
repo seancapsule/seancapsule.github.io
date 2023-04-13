@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ffae263fc1f357f3",
+        "id": "7c56461357d9442f",
         "type": "tabs",
         "children": [
           {
-            "id": "2605323b8870be26",
+            "id": "9f704933047cd057",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-10-프로그래머의 정신.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ef0709958ae69a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-13-test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2023-04-13-test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2023-04-13-test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "_posts/2023-04-13-test.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -144,7 +123,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8ef0709958ae69a4",
+  "active": "9f704933047cd057",
   "lastOpenFiles": [
     "_posts/2023-04-10-프로그래머의 정신.md",
     "_posts/2023-04-13-test.md",
