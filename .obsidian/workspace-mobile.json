@@ -11,8 +11,12 @@
             "id": "9f704933047cd057",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-15-프로그래머의 원칙.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_posts/2023-04-15-프로그래머의 원칙.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "_posts/2023-04-15-프로그래머의 원칙.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "_posts/2023-04-15-프로그래머의 원칙.md"
+          }
         }
       }
     ],
@@ -115,19 +123,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "9f704933047cd057",
   "lastOpenFiles": [
+    "_posts/2023-04-15-프로그래머의 원칙.md",
     "_posts/2023-04-10-프로그래머의 정신.md",
-    "_posts/2023-04-13-test.md",
-    "_posts/2023-04-11-존재의 기술.md",
-    "_posts/2023-04-11-볼륨.md"
+    "docs/_docs/15-utility-classes.md",
+    "test/assets/images/mm-layout-archive-taxonomy.png",
+    "docs/assets/images/mm-social-share-links-reddit-gs.png",
+    "docs/_posts/2016-09-21-gemified-theme-alpha.md",
+    "docs/assets/images/page-header-image.png",
+    "test/assets/images/mm-github-edit-config.gif",
+    "docs/_docs/18-history.md",
+    "docs/assets/images/favicon-16x16.png",
+    "docs/assets/images/image-alignment-150x150.jpg",
+    "docs/assets/images/apple-touch-icon-72x72.png",
+    "docs/assets/images/favicon-96x96.png",
+    "docs/assets/images/mm-teaser-images-example.jpg",
+    "docs/assets/images/apple-touch-icon-144x144.png",
+    "_sass/minimal-mistakes/skins/_sunrise.scss",
+    "_sass/minimal-mistakes/skins/_mint.scss",
+    "_sass/minimal-mistakes/_notices.scss",
+    "docs/_posts/2012-03-15-layout-sidebar-custom.md",
+    "assets/js/lunr/lunr-en.js",
+    "docs/_drafts/post-draft.md",
+    "_sass/minimal-mistakes/vendor/susy/susy/_utilities.scss",
+    "docs/_data/comments/welcome-to-jekyll/comment-1500505983331.yml",
+    "docs/_data/comments/post-video-youtube/comment-1506623182288.yml",
+    "docs/_data/comments/markup-image-alignment/comment-1534823211504.yml",
+    "_sass/minimal-mistakes/vendor/breakpoint/parsers/single/_default.scss",
+    "_sass/minimal-mistakes/vendor/breakpoint/parsers/double/_double-string.scss",
+    "_posts/2023-04-11-볼륨.md",
+    "test/_pets/tabby.md",
+    "test/_posts/2017-11-28-post-exclude-search.md",
+    "test/_posts/2009-09-05-edge-case-no-yaml-title.md",
+    "test/_posts/2009-08-06-edge-case-no-body-content.md",
+    "test/_posts/2012-03-15-layout-header-image-text-readability.md",
+    "test/_pages/category-archive-grid.md",
+    "docs/_posts/2010-08-05-post-image-linked.md",
+    "test/_posts/2010-01-07-post-modified.md",
+    "_pages/tag-archive.md",
+    "test/_posts/2010-06-02-post-video-youtube.md",
+    "test/_posts/2009-10-05-edge-case-multiline-excerpt.md",
+    "test/_pages/category-archive.md",
+    "test/_pages/year-archive-grid.md",
+    "test/_posts/2010-09-09-post-gallery.md",
+    "test/_pages/markup.md",
+    "test/_pages/tag-archive.md",
+    "test/_posts/2009-06-01-edge-case-many-tags.md",
+    "test/_posts/2009-10-05-edge-case-very-long-title.md"
   ]
 }
