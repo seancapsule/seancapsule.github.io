@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e6617e15c5b812a1",
+        "id": "532f6fa453ddb54a",
         "type": "tabs",
         "children": [
           {
-            "id": "350485df3daf6d96",
+            "id": "471781f6207c774a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-16-성취역량.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-04-16-성취역량.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-04-16-성취역량.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-04-16-성취역량.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "350485df3daf6d96",
+  "active": "471781f6207c774a",
   "lastOpenFiles": [
+    "_posts/2023-04-16-성취역량.md",
     "_posts/2023-04-16-마음근력.md",
     "_posts/2023-04-16-단순성.md",
     "_posts/2023-04-10-운동의 기본원칙.md",
