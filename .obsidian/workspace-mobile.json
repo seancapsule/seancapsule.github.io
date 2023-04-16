@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7c56461357d9442f",
+        "id": "5c61366fd8804fa3",
         "type": "tabs",
         "children": [
           {
-            "id": "9f704933047cd057",
+            "id": "ddbf659b5dad41bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-15-프로그래머의 원칙.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e31500c685d33039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-16-단순성.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2023-04-16-단순성.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2023-04-16-단순성.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "_posts/2023-04-16-단순성.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -144,7 +123,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e31500c685d33039",
+  "active": "ddbf659b5dad41bc",
   "lastOpenFiles": [
     "_posts/2023-04-15-프로그래머의 원칙.md",
     "_posts/2023-04-16-단순성.md",

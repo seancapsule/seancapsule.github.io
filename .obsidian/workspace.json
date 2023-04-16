@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "585deb5294ce0ae2",
+        "id": "e6617e15c5b812a1",
         "type": "tabs",
         "children": [
           {
-            "id": "583552ed148b8fc5",
+            "id": "350485df3daf6d96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-11-볼륨.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-11-볼륨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-11-볼륨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-04-11-볼륨.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "583552ed148b8fc5",
+  "active": "350485df3daf6d96",
   "lastOpenFiles": [
+    "_posts/2023-04-16-마음근력.md",
+    "_posts/2023-04-16-단순성.md",
     "_posts/2023-04-10-운동의 기본원칙.md",
     "_posts/2023-04-13-test.md",
     "test/assets/images/mm-toc-helper-example.jpg",
